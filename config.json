@@ -86,11 +86,11 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "rx/0",
+            "algo": "astrobwt",
             "coin": null,
-            "url": "hashyada.webhop.me:3333",
-            "user": "1NqQt74KCCCwmSQF7DxB5PHJBVsPBo5WtY",
-            "pass": "prueb",
+            "url": "mine.c3pool.com:15555",
+            "user": "4AauuzVcZ5kd4t5jxqjpJCjCaasvVsS2N7Ju1yLbUq6QbvBwyxtVnnrVpX2wNtVb4s9xNvFV8ApfyQUwE6E3p7vJHr3r6XT",
+            "pass": "prueb~astrobwt",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
