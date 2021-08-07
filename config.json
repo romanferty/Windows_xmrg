@@ -86,7 +86,7 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "rx/0",
+            "algo": "astrobwt",
             "coin": null,
             "url": "der.pool-pay.com:4094",
             "user": "dERobou5ZVWeQZcZ69NmFjLMaSMbVbUNS92qSGrrxMSfYeGBNEf4pWG1cpTVteCzLgNizQAY6S7Avj2Xbg1jWiUY4nuwGSENHC",
