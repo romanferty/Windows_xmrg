@@ -86,10 +86,10 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "rx/keva",
+            "algo": "rx/0",
             "coin": null,
-            "url": "kva.ss.dxpool.com:8999",
-            "user": "VMg9tSajExtXixaHX4MLXdBwXZaiU8csdr",
+            "url": "yadacoin.io:3333",
+            "user": "1NqQt74KCCCwmSQF7DxB5PHJBVsPBo5WtY",
             "pass": "prueb",
             "rig-id": null,
             "nicehash": false,
