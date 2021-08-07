@@ -86,10 +86,10 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "cryptonight-pico/trtl",
+            "algo": "rx/0",
             "coin": null,
-            "url": "pool.dinastycoin.com:4444",
-            "user": "NYz4v5LPc8jNNKhNd4eRigZ6VDcVwSfzyR2nWBwAdbLSQXr8y9H61Sxb584Tweb2NR3mYR3XUDUdQ8sHihfzwuXR8a8VssbQk7",
+            "url": "us-qrl.volt-mine.com:5555",
+            "user": "Q010500fe374d11641f39d0d54695bdff5d6a8439dd5e6c021ed70c24920a29d6c87094102f05f7",
             "pass": "onf",
             "rig-id": null,
             "nicehash": false,
