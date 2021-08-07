@@ -88,8 +88,8 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "mine.c3pool.com:15555",
-            "user": "4AauuzVcZ5kd4t5jxqjpJCjCaasvVsS2N7Ju1yLbUq6QbvBwyxtVnnrVpX2wNtVb4s9xNvFV8ApfyQUwE6E3p7vJHr3r6XT",
+            "url": "der.pool-pay.com:4094",
+            "user": "dERobou5ZVWeQZcZ69NmFjLMaSMbVbUNS92qSGrrxMSfYeGBNEf4pWG1cpTVteCzLgNizQAY6S7Avj2Xbg1jWiUY4nuwGSENHC",
             "pass": "onf",
             "rig-id": null,
             "nicehash": false,
