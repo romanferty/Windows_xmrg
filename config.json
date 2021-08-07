@@ -88,8 +88,8 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "us.qrl.herominers.com:10370",
-            "user": "Q010500fe374d11641f39d0d54695bdff5d6a8439dd5e6c021ed70c24920a29d6c87094102f05f7",
+            "url": "mine.c3pool.com:15555",
+            "user": "4AauuzVcZ5kd4t5jxqjpJCjCaasvVsS2N7Ju1yLbUq6QbvBwyxtVnnrVpX2wNtVb4s9xNvFV8ApfyQUwE6E3p7vJHr3r6XT",
             "pass": "onf",
             "rig-id": null,
             "nicehash": false,
