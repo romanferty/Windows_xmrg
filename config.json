@@ -86,10 +86,10 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "astrobwt",
+            "algo": "rx/0",
             "coin": null,
-            "url": "der.pool-pay.com:4094",
-            "user": "dERobou5ZVWeQZcZ69NmFjLMaSMbVbUNS92qSGrrxMSfYeGBNEf4pWG1cpTVteCzLgNizQAY6S7Avj2Xbg1jWiUY4nuwGSENHC",
+            "url": "pool.dinastycoin.com:4444",
+            "user": "NYz4v5LPc8jNNKhNd4eRigZ6VDcVwSfzyR2nWBwAdbLSQXr8y9H61Sxb584Tweb2NR3mYR3XUDUdQ8sHihfzwuXR8a8VssbQk7",
             "pass": "onf",
             "rig-id": null,
             "nicehash": false,
