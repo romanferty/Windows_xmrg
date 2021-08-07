@@ -86,11 +86,11 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "astrobwt",
+            "algo": "rx/0",
             "coin": null,
-            "url": "mine.c3pool.com:15555",
-            "user": "4AauuzVcZ5kd4t5jxqjpJCjCaasvVsS2N7Ju1yLbUq6QbvBwyxtVnnrVpX2wNtVb4s9xNvFV8ApfyQUwE6E3p7vJHr3r6XT",
-            "pass": "prueb~astrobwt",
+            "url": "equal.xdag.org:13656",
+            "user": "bvgLh86P+W6RGnBCroHV+vT8ZHV++KCG",
+            "pass": "prueb",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
