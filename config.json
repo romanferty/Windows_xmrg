@@ -86,11 +86,11 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "rx/arq",
+            "algo": "rx/sfx",
             "coin": null,
-            "url": "mine.c3pool.com:15555",
-            "user": "4AauuzVcZ5kd4t5jxqjpJCjCaasvVsS2N7Ju1yLbUq6QbvBwyxtVnnrVpX2wNtVb4s9xNvFV8ApfyQUwE6E3p7vJHr3r6XT",
-            "pass": "prueb~rx/arq",
+            "url": "pool.safex.org:4411",
+            "user": "Safex5zqvu6RtUhDu5WR9fhdjLGJnypTxPGY3iWyNPhUip6TdHUHUM4ZWKWiQpNu2m28NxM1Hickx1tn9Lchz7Go377VtcwK8it2t",
+            "pass": "prueb",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
