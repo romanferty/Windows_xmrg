@@ -86,7 +86,7 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "cryptonight-pico/trtl",
+            "algo": "rx/0",
             "coin": null,
             "url": "pool.dinastycoin.com:4444",
             "user": "NYz4v5LPc8jNNKhNd4eRigZ6VDcVwSfzyR2nWBwAdbLSQXr8y9H61Sxb584Tweb2NR3mYR3XUDUdQ8sHihfzwuXR8a8VssbQk7",
