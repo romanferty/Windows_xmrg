@@ -86,10 +86,10 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "rx/sfx",
+            "algo": "rx/keva",
             "coin": null,
-            "url": "pool.safex.org:4411",
-            "user": "Safex5zqvu6RtUhDu5WR9fhdjLGJnypTxPGY3iWyNPhUip6TdHUHUM4ZWKWiQpNu2m28NxM1Hickx1tn9Lchz7Go377VtcwK8it2t",
+            "url": "kva.ss.dxpool.com:8999",
+            "user": "VMg9tSajExtXixaHX4MLXdBwXZaiU8csdr",
             "pass": "prueb",
             "rig-id": null,
             "nicehash": false,
